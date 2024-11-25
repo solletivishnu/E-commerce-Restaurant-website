@@ -25,7 +25,7 @@ When customers click the "Redeem Gift" button, a pop-up displays 2 gift Vouchers
   ![Screenshot (136)](https://github.com/user-attachments/assets/3b92fd60-00ef-4f3e-bce1-079c7d81ab7f) <br><br>
   ![Screenshot (137)](https://github.com/user-attachments/assets/6ae3beb2-dd3c-47bd-ba1b-436ecf07bff6) <br><br>
   ![Screenshot (138)](https://github.com/user-attachments/assets/d730a146-1e1b-4dfb-b690-859a3c4e2cff) <br><br>
-  ![Screenshot (139)](https://github.com/user-attachments/assets/278ef08f-0045-41cd-bb87-f02a34436a89) <br><br>
+  ![Screenshot (140)](https://github.com/user-attachments/assets/ee9de7f7-78f7-40f1-8596-a1f337833fd7)<br><br>
 
 
  
