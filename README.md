@@ -19,9 +19,11 @@ Developed a responsive e-commerce website tailored for food business owners. The
 When customers click the "Redeem Gift" button, a pop-up displays 2 gift Vouchers that users can redeem for discounts or future orders.<br><br>
 
 
-
+  ##Home Section
   ![Screenshot (134)](https://github.com/user-attachments/assets/fb1de103-e4dd-40fd-a3fd-15c7a1dd0f4a) <br><br>
+  ##Why Choose Us? section
   ![Screenshot (135)](https://github.com/user-attachments/assets/03624c80-e244-4154-a21f-22d6bb500618)<br><br>
+  
   ![Screenshot (136)](https://github.com/user-attachments/assets/3b92fd60-00ef-4f3e-bce1-079c7d81ab7f) <br><br>
   ![Screenshot (137)](https://github.com/user-attachments/assets/6ae3beb2-dd3c-47bd-ba1b-436ecf07bff6) <br><br>
   ![Screenshot (138)](https://github.com/user-attachments/assets/d730a146-1e1b-4dfb-b690-859a3c4e2cff) <br><br>
